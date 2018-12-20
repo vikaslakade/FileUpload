@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/emsphere/fileupload/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_toolbar.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/demo.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/proguard-rules.pro">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/src/main/java/seedcommando/com/empowerapp/leaveapplication/Leave_Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/src/main/res/layout/application_status_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/src/main/res/layout/attachmentpopup.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/src/main/res/layout/attendance_detail_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/src/main/res/layout/demo.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/src/main/res/layout/leave_application.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/src/main/res/layout/list_member_of_subordinate.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/src/main/res/layout/notification_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/app/src/main/res/layout/sub_ordinate_day_status.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="E:/EnterpriseEmpowerApp/EmpowerUI/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
